@@ -17,6 +17,6 @@ Open Index.html with your preferred browser
 
 ---------------------------------
 
-Currently Still updating but is fully functional :)
+Shadow Asylum
 
 
