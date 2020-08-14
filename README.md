@@ -1,4 +1,4 @@
-# Net-Work-Speed-Tester
+# Network Speed Tester
 ---------------------------------
 About
 ---------------------------------
