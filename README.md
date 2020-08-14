@@ -6,7 +6,7 @@ About
 it checks your Internet speed every minute and makes a graph out of it
 
 ---------------------------------
-Using
+Usage
 ---------------------------------
 
 Just Download the code As a zip file
