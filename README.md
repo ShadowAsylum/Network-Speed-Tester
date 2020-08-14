@@ -10,7 +10,9 @@ Using
 ---------------------------------
 
 Just Download the code As a zip file
+
 Extract it
+
 Open Index.html with your preferred browser
 
 ---------------------------------
